@@ -1,0 +1,213 @@
+body {
+    font-family: comic sans ms;
+    margin: 0;
+    padding: 0;
+  }
+  .pg1{
+    background-image: url(game1.jpg);
+    width: 1280px;
+    height: 800px;
+  }
+  .pg2{
+    background-image: url(game2.jpg);
+    width: 1280px;
+    height: 725px;
+  }
+  .pg3{
+    background-image: url(game4.webp);
+    width: 1280px;
+    height: 725px;
+  }
+  header {
+    
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 3em;
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 0;
+  }
+ 
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 3px;
+    
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+   
+  }
+  .nav1 {
+    left: 200px;
+    position: relative;
+    top: auto;
+    font-size: 1em;
+    color: white;
+  }
+  .nav2 {
+    text-align: right;
+    position: relative;
+    top: 0;
+    font-size: 1em;
+    color: white;
+    
+  }
+  .content h2 span {
+    padding: 20px;
+    text-align: left;
+    color: red;
+    font-size: 100%;
+  }
+  .content h2 {
+    padding: 20px;
+    text-align: left;
+    color: white;
+    font-size: 400%;
+    font-family: comic sans ms;
+  }
+  .content button{
+    background-color: red;
+    color: white;
+    font-family: comic sans ms;
+    font-size: 1.5em;
+    margin-left: 25px;
+    padding: 3px;
+
+  }
+.content2 h1{
+    font-size: 400%;
+    font-family: comic sans ms;
+    padding: 20px;
+    text-align: left;
+    color: white;
+}
+  .content2 h1 span{
+    color: red;
+  }
+  .content2 h2{
+    font-size: 200%;
+    font-family: comic sans ms;
+    padding: 20px;
+    text-align: left;
+    color: white
+
+  }
+  .content2 h2 span{
+    color: red;
+  }
+  .content2 h5{
+    font-size: 100%;
+    font-family: comic sans ms;
+    padding: 20px;
+    text-align: left;
+    color: white;
+    
+}
+  .content2 img{
+    position: absolute;
+    padding: 20px;
+  }
+  .content2 h6{
+    position: relative;
+    color: white;
+    left: 175px;
+    font-size: 2em;
+    bottom: 40px;
+  }
+  .content2 h6 span{
+    position: relative;
+    color: red;
+    left: 0px;
+    font-size: 20px;
+  }
+  footer {
+    color: white;
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    font-size: 2em;
+    height: 70px;
+    word-spacing: 70px;
+  }
+  .content3 h1{
+    font-size: 400%;
+    font-family: comic sans ms;
+    padding: 20px;
+    text-align: left;
+    color: white;
+    position: absolute;
+  }
+  .content3 h1 span{
+    color: red;
+  }
+  .content3 h3{
+    font-size: 150%;
+    font-family: comic sans ms;
+    padding: 20px;
+    text-align: left;
+    color: white;
+    position: relative;
+    left: 730px;
+    top: 70px;
+
+  }
+  .content3 h5{
+    font-size: 100%;
+    font-family: comic sans ms;
+    padding: 20px;
+    text-align: left;
+    color: white;
+    left: 730px;
+    position: relative;
+    top: 40px;
+}
+.content3 img{
+    position: relative;
+    padding: 20px;
+    top: 140px;
+    
+}
+  .content3 h6{
+    position: relative;
+    color: white;
+    left: 175px;
+    font-size: 2em;
+    bottom: 90px;
+  }
+  .content3 h6 span{
+    position: relative;
+    color: red;
+    left: 0px;
+    font-size: 20px;
+  }
+  .content3 button{
+    background: none;
+    color: white;
+    font-family: comic sans ms;
+    font-size: 1.5em;
+   position: relative;
+    padding: 3px;
+    top: -380px;
+    left: 200px;
+
+  }
+  .footer footer{
+    color: white;
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5em;
+    height: 70px;
+    word-spacing: 50px;
+  }
